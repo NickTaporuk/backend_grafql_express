@@ -56,4 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+.idea
+backend_grafql_express.iml
 
